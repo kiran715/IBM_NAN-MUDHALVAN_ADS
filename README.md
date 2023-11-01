@@ -16,7 +16,7 @@ dependencies: scikit-learn, numpy, pandas, matplotlib, seaborn
 
 Getting started:- 
 Clone this repository to your local machine:
-     -> 
+     -> https://github.com/kiran715/IBM_NAN-MUDHALVAN_ADS.git
 Install the dependencies using pip command 
      eg:- pip install scikit-learn 
 
